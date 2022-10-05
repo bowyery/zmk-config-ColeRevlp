@@ -23,12 +23,12 @@
 // -------------------------------------------------------------------------------------
 // |  ESC |  Q  |  W  |  F  |  P  |  B  |   |  J  |  L   |  U  |  Y  |  -  |    =     |
 // | CTRL |  A  |  R  |  S  |  T  |  G  |   |  M  |  N   |  E  |  I  |  O  |    '     |
-// | SHFT |  Z  |  X  |  C  |  D  |  V  |   |  N  |  H   |  ,  |  .  |  /  |    OS    |
+// | SHFT |  Z  |  X  |  C  |  D  |  V  |   |  K  |  H   |  ,  |  .  |  /  |    OS    |
 //                         | LWR TAB | ALT | SPC | BKSP  | RSE RET |
                         bindings = <
    &kp ESC   &kp Q &kp W &kp F &kp P &kp B   &kp J &kp L &kp U &kp Y &kp MINUS &kp EQUAL
    &kp LCTRL &kp A &kp R &kp S &kp T &kp G   &kp M &kp N &kp E &kp I &kp O &kp SQT
-   &kp LSHFT &lt 4 Z &kp X &kp C &kp D &kp V   &kp N &kp H &kp COMMA &kp DOT &lt 3 FSLH &kp RGUI
+   &kp LSHFT &lt 4 Z &kp X &kp C &kp D &kp V   &kp K &kp H &kp COMMA &kp DOT &lt 3 FSLH &kp RGUI
                        &kp LALT &lt 1 TAB &kp SPACE &kp BSPC &lt 2 RET
                         >;
                 };
