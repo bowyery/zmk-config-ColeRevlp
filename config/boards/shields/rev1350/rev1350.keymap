@@ -54,7 +54,7 @@
 // |    | SCL |     |     |     |     | |      | DEL  |  INS | PSCRN|PAUSE|      |
 //                          |    |   |    |    |    |
                         bindings = <
-   &trans &trans &trans &trans  &trans  &trans   &kp K_APP  &kp HOME  &kp PG_UP &kp PG_DN  &kp END  &trans 
+   &trans &trans &trans &trans  &trans  &trans   &kp K_APP  &kp HOME  &kp PG_DN &kp PG_UP  &kp END  &trans 
    &trans &trans  &trans  &trans   &trans   &trans    &trans  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT &trans 
    &trans &kp SLCK &trans &trans &trans  &trans   &trans  &kp DEL  &kp INS  &kp PSCRN &kp PAUSE_BREAK &trans
                                 &trans &trans &trans &trans &trans
