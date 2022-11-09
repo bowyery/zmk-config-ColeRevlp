@@ -68,9 +68,9 @@
 // |     |     |     |VOLUP|VOLDN|MUTE |   |   1  |  2  |   3 |   + |  -  |     |
 //                        |     |     |     |   O  |  .  |
                         bindings = <
-   &trans &trans  &trans   &kp C_RW   &kp C_FF   &trans                     &kp N7  &kp N8 &kp N9 &kp LPAR    &kp RPAR    &kp C_AL_CALC
-   &trans  &kp C_BRI_DN  &kp C_BRI_UP   &kp C_PREV   &kp C_NEXT   &kp C_PP  &kp N4  &kp N5 &kp N6  &kp DIVIDE &kp MULTIPLY &kp NUM
-   &trans  &trans  &trans   &kp C_VOL_DN   &kp C_VOL_UP   &kp C_MUTE        &kp N1  &kp N2 &kp N3 &kp PLUS &kp MINUS   &trans
+   &trans &trans  &trans   &kp C_RW   &kp C_FF   &trans                     &kp N7  &kp N8 &kp N9 &kp LPAR &kp RPAR &kp C_AL_CALC
+   &trans &kp C_BRI_DN &kp C_BRI_UP &kp C_PREV &kp C_NEXT &kp C_PP          &kp N4  &kp N5 &kp N6 &kp DIVIDE &kp MULTIPLY &kp NUM
+   &trans  &trans  &trans   &kp C_VOL_DN   &kp C_VOL_UP   &kp C_MUTE        &kp N1  &kp N2 &kp N3 &kp PLUS &kp MINUS &trans
                                    &trans   &trans   &trans   &kp N0   &kp DOT
                         >;
                 };
